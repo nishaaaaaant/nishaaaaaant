@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nishant Viswanadha</h1>
+<h1 align="center">Hi 👋, I'm Srinivas Nishant Viswanadha</h1>
 <h3 align="center">Passionate developer and lifelong learner with 5+ years of experience in Python and developing Web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishaaaaaant&label=Profile%20views&color=0e75b6&style=flat" alt="nishaaaaaant" /> </p>
